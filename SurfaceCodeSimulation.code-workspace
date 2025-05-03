@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../Downloads/qiskit_surface_codes-1-master"
 		}
 	]
 }
